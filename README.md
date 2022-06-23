@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Arunkumar-60 , cs grad at nitap.
 - 👀 I’m interested in cryptography and design of secure protocals.
-- 🌱 I’m currently learning python & javascript.
-- 💞️ I’m looking to collaborate on mini projects.
+- 🌱 I’m currently learning python and javascript
 - 📫 How to reach me on mail id: 411760@student.nitandhra.ac.in or pikkalaarunkumar@gmail.com
 - 📫 How to reach me on phone : +91 778-0166365 or +91 733-0899414
 - 
