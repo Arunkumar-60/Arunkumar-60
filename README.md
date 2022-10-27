@@ -4,4 +4,3 @@
 - 🌱 I'm currently working on web applications development
 - 📫 How to reach me on mail id: 411760@student.nitandhra.ac.in or pikkalaarunkumar@gmail.com
 - 📫 How to reach me on phone : +91 778-0166365 or +91 733-0899414
-- 
