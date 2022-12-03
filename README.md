@@ -42,21 +42,10 @@
 </p>
 <div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=Arunkumar-60&show_icons=true&count_private=true"/></div>
 
-<!-- Contribution Graph -->
+<!-- Trophies -->
 
 #
 
-<p align="center">
-   <i><b>CONTRIBUTION GRAPH</b></i>
-</p>
-<p align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arunkumar-60&bg_color=000001&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
-
-</p>
- 
-<!-- Trophies -->
- #
 <p align="center">
    <i><b>TROPHIES</b></i>
 </p>
