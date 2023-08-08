@@ -42,6 +42,8 @@
 </p>
 <div align="center"><img align="middle" alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=Arunkumar-60&show_icons=true&count_private=true"/></div>
 
+<!-- codechef stats -->
+
 <!-- Trophies -->
 
 #
