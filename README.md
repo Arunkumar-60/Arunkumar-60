@@ -5,7 +5,7 @@
 - 📫 How to reach me on mail id: 411760@student.nitandhra.ac.in or pikkalaarunkumar@gmail.com
 - 📫 How to reach me on phone : +91 778-0166365 or +91 733-0899414
 
-> Web Designing with HTML, CSS, JavaScript, Bootstrap ,Python (Programming Languages)
+> Web Designing with HTML, CSS, JavaScript, Bootstrap ,Python (Programming Languages), Django , nodejs and mongodb
 
 <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><a> <a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/><a> <a href="https://www.w3schools.com/js/"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><a> <a href="https://www.w3schools.com/bootstrap/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><a>
 
